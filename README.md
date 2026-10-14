@@ -1,6 +1,6 @@
 # Tiger Brands Limited (JSE: TBS.JO): Equity Research Report
 
-**Course:** Sercurity Analysis Individual Assignment
+**Course:** Security Analysis
 **Author:** Mamello Malape (Student No. 2023232750), University of the Free State
 **Recommendation:** **BUY** | Target price **R327.60** | Current price R284.43 | Upside **+15.18%**
 
