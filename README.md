@@ -139,7 +139,7 @@ Other FY2025 outcomes:
 
 | Contributor | Role |
 |---|---|
-| **Mamello Malape** (2023232750) | Sole author: research, financial modelling (DCF, forecasts, scenarios), analysis and report writing |
+| **Mamello Malape** | Sole author: research, financial modelling (DCF, forecasts, scenarios), analysis and report writing |
 
 
 ## References
